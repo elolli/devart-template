@@ -1,12 +1,11 @@
 # Project Title
-Insert the name of your project
+SoulMusic
 
 ## Authors
-- Insert main author name, surname, github account
-- Insert other author(s) name, surname, github account (one per list element)
+- Elise Lawley, elolli
 
 ## Description
-Insert a description containing about 100 to 150 words, including your motivation and the meaning behind your idea and execution. The Judges will be keen to know how your idea pushes the boundaries of code and technology. 
+I plan to build an installation that will act as a soundboard controlled by the pulse of the heart. Using sensors, the pulse will represent the frequency of the musical pattern. Additionally, the note will be chosen by where the hand is placed on the wall, using height as a variable of interest, too. The pattern will be represented on the wall with a color corresponding to the musical spectrum. As more and more people interact with the mall, the music will become louder and more diverse and beautiful. The purpose of my project is to combine code and heart beats to create sound that is beautiful to the ears, eyes, and soul and to inspire a universal language of love through art. 
 
 ## Link to Prototype
 NOTE: If your project lives online you can add one or more links here. Make sure you have a stable version of your project running before linking it.
